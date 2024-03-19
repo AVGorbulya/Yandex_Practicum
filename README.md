@@ -1,4 +1,4 @@
-# Yandex_Practicum
+# Yandex_Practicum Data Analyst Bootcamp
 Привет! Меня зовут Горбуля Андрей.
 
 В данном репозитории расположены мои учебные проекты выполненные в рамках обучения по программе "Data Analyst Bootcamp" в Yandex Practicum
