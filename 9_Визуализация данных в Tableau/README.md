@@ -13,6 +13,8 @@ TED (от англ. technology, education, design — «технологии, о
 
 Подготовлен интерактивный дашборд на основе данных о конференциях. 
 Для создания дашбордов использован BI-инструмент Tableau.
+https://public.tableau.com/shared/8PBCFHQHZ?:display_count=n&:origin=viz_share_link
+
 
 
 
